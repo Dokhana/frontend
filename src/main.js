@@ -5,9 +5,9 @@ import axios from 'axios';
 import NProgress from 'nprogress';
 
 import App from './App.vue';
-import Create from './components/Create-member.vue';
-import Update from './components/Update-member.vue';
-import Index from './components/Index-member.vue';
+import Create from './components/Create-method.vue';
+import Update from './components/Update-method.vue';
+import Index from './components/Index-method.vue';
 
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import '../node_modules/nprogress/nprogress.css';
